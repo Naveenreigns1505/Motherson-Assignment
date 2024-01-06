@@ -1,0 +1,134 @@
+.flex-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 60px;
+}
+
+.heading1 {
+  font-family: "Roboto";
+  font-size: 50px;
+  color: black;
+}
+.heading2 {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: orange;
+  font-weight: bold;
+}
+.text {
+  font-family: "roboto";
+  font-size: 20px;
+  color: gray;
+  font-weight: bold;
+}
+.container {
+  text-align: left;
+  margin-left: 20px;
+}
+.button {
+  color: black;
+  background-color: orange;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.button2 {
+  color: black;
+  background-color: transparent;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
+.line {
+  opacity: 0.1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.add-footer {
+  background-color: yellow;
+  width: 100%;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+}
+.home-main-container {
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+  align-items: center;
+
+  padding-top: 0px;
+  background-color: #f9faff;
+  padding-bottom: 150px;
+}
+@media (max-width: 576px) {
+  .home-main-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0px;
+    background-color: #f9faff;
+  }
+
+  .name-text {
+    font-family: "Playfair Display";
+    font-size: 10px;
+  }
+}
+
+.home-text-container {
+  width: 40vw;
+}
+
+.ui {
+  color: #fdc435;
+}
+.name-text {
+  font-family: "Playfair Display";
+  font-size: 90px;
+}
+.name-text2 {
+  font-family: "Playfair Display";
+  font-size: 60px;
+  text-align: center;
+}
+.m {
+  background-color: #f9faff;
+}
+.project-button {
+  background-color: #fdc435;
+  border-style: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 0px;
+}
+.linked-button {
+  background-color: transparent;
+
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
+.icon2 {
+  height: 40px;
+  width: 40px;
+  margin-bottom: 10px;
+}
