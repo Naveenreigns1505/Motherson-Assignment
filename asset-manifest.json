@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Motherson-Assignment/static/css/main.aa8b7502.css",
+    "main.js": "/Motherson-Assignment/static/js/main.3adcfcdd.js",
+    "static/js/787.1937f22b.chunk.js": "/Motherson-Assignment/static/js/787.1937f22b.chunk.js",
+    "index.html": "/Motherson-Assignment/index.html",
+    "main.aa8b7502.css.map": "/Motherson-Assignment/static/css/main.aa8b7502.css.map",
+    "main.3adcfcdd.js.map": "/Motherson-Assignment/static/js/main.3adcfcdd.js.map",
+    "787.1937f22b.chunk.js.map": "/Motherson-Assignment/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa8b7502.css",
+    "static/js/main.3adcfcdd.js"
+  ]
+}
